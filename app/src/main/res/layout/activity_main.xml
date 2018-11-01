@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     >
+    
     <LinearLayout
         android:id="@+id/Lineaer1"
         android:orientation="horizontal"
